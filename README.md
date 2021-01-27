@@ -10,7 +10,7 @@ This is the final capstone project app for Udacity iOS Developer Nanodegree. Thi
 * Using Firebase Framework for Authenticationa and Real-Time Database
 
 ## App Structure
-xChat is following the MVC pattern
+iChat is following the MVC pattern
 
 ## Implementation
 ### main screen 
