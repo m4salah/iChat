@@ -1,4 +1,4 @@
-# xChat
+# iChat
 This is the final capstone project app for Udacity iOS Developer Nanodegree. This is simple messanger app allow any number of user texting each other in the same room, but it perfare two user only.
 
  * [Project Rubric](https://review.udacity.com/#!/rubrics/1991/view)
